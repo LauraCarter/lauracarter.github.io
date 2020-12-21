@@ -4,10 +4,10 @@ layout: default
 
 ## Research
 
-I'm a PhD student in the Human Rights, Big Data and Technology Project at the University of Essex. 
+I'm a PhD student in the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/) at the [University of Essex](https://www.essex.ac.uk/). 
 I'm researching the ways in which gender stereotypes are encoded into data-driven decision-making systems in the UK public sector: 
 my research focuses on the use of data assemblages in children's social services in England. 
-My supervisors are Professor Lorna McGregor and Dr Roisin Ryan-Flood.
+My supervisors are [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Dr Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
 
 I'm currently an Open Life Science Fellow, part of the OLS-2 cohort which runs from September to December 2020. 
 Together with Sophia Batchelor and Ismael Kherroubi Garcia, I am working to build a community of practice for the Turing Way's Guide to Ethical Research. 
@@ -30,9 +30,9 @@ April 2019: Google's pay audit and the meaning of 'equality', a blog post for th
 
 ## Work history
 
-From 2011 to 2019, I worked at the International Secretariat of Amnesty International, of which six years was spent in research and policy advice roles.
+From 2011 to 2019, I worked at the International Secretariat of Amnesty International, of which six years was spent in research and policy advice roles covering the rights of LGBTI people and of human rights defenders.
 
-Prior to this, I worked as a caseworker for domestic violence and hate crime cases, a freelance maths tutor, a bartender, and an assistant language teacher for elementary and junior high school students in rural Wakayama, Japan.
+I have also worked as a caseworker for domestic violence and hate crime cases, a freelance maths tutor, a bartender, and an assistant language teacher for elementary and junior high school students in rural Wakayama, Japan.
 
 I have an MA in Gender Studies from SOAS and a BA in Mathematics from the University of Cambridge.
 
