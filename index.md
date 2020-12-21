@@ -72,3 +72,8 @@ I run [Data/Feminism](https://tinyletter.com/data-feminism), a weekly(ish) newsl
 I wrote a satirical twitter bot that gives [individual self-care advice](https://twitter.com/lifeadvicebot) for coping with structural problems.
 
 My tiny plot in a North London community garden has an [Instagram](https://www.instagram.com/lauragardenn7/).
+
+## Contact me
+
+[Email](mailto:laura.carter@essex.ac.uk)
+[Twitter](https://twitter.com/LauraC_rter)
