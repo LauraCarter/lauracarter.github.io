@@ -27,7 +27,7 @@ _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcesse
 
 _May 2021_: **‘Tech Winners and Losers: What’s in Your Backpack?’**, with Isobel Talks (PhD candidate, University of Oxford), at Civic Participation in the Datafied Society, Cardiff, UK (postponed from 2020 due to COVID-19) 
 
-_October 2020_: Together with Emily Dwyer, co-founder of [Edge Effect](https://www.edgeeffect.org/), I presented at the Communicating with Disaster-Affected Communities (CDAC) Forum 2020 on some of the issues concerning inclusion and exclusion of LGBTI people from data-driven work in the development sector. Our 10-minute presentation is online [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
+_October 2020_: **'Cloudy With Silver Linings: Including people with diverse SOGIESC in Humanitarian AI'**, with Emily Dwyer, co-director of [Edge Effect](https://www.edgeeffect.org/), Communicating with Disaster-Affected Communities (CDAC) Forum 2020, online. Our 10-minute presentation is [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
 
 _November 2019_: **‘Prescripted living: gender stereotypes and surveillance technologies,’** Workshop on Feminist Data Protection, Forum Privetheit, Berlin, Germany
 
