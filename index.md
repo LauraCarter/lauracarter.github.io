@@ -25,7 +25,7 @@ April 2019: [Google's pay audit and the meaning of 'equality'](https://hrcessex.
 
 ## Conference presentations
 
-October 2020: Together with Emily Dwyer, co-founder of Edge Effect I presented at the Communicating with Disaster-Affected Communities (CDAC) Forum 2020 on some of the issues concerning inclusion and exclusion of LGBTI people from data-driven work in the development sector. Our 10-minute presentation is online [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) from about 35:05)
+October 2020: Together with Emily Dwyer, co-founder of Edge Effect I presented at the Communicating with Disaster-Affected Communities (CDAC) Forum 2020 on some of the issues concerning inclusion and exclusion of LGBTI people from data-driven work in the development sector. Our 10-minute presentation is online [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
 
 ## Work history
 
