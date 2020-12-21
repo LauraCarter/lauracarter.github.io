@@ -45,7 +45,8 @@ I have an MA in Gender Studies from SOAS and a BA in Mathematics from the Univer
 
 ## Open science 
 
-I am an active contributor to the Turing Way open-source book project. 
+I am an active contributor to the [Turing Way](https://the-turing-way.netlify.app/welcome) open-source book project.
+Guidance on how to join the community of contributors is in the [project repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
 I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows, which ran from September to December 2020. 
 Together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
