@@ -9,14 +9,9 @@ I'm researching the ways in which gender stereotypes are encoded into data-drive
 my research focuses on the use of data assemblages in children's social services in England. 
 My supervisors are [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Dr Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
 
-I'm currently an Open Life Science Fellow, part of the OLS-2 cohort which runs from September to December 2020. 
-Together with Sophia Batchelor and Ismael Kherroubi Garcia, I am working to build a community of practice for the Turing Way's Guide to Ethical Research. 
-We aim to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
-This project builds on work I did while based at the Alan Turing Institute in London as an Enrichment Student from January to September 2020.
-
 I'm also occasionally a gender consultant and advisor, with specific expertise in human rights, and discrimination on the grounds of sexual orientation, gender identity and sex characteristics. 
-Past and current clients include Frontline AIDS, Edge Effect, and the World Bank Group. 
-Email me for more information.
+Past and current clients include [Frontline AIDS](https://frontlineaids.org/), [Edge Effect](https://www.edgeeffect.org/), and the [World Bank Group](https://www.worldbank.org/). 
+[Email me](mailto:laura.carter@essex.ac.uk) for more information.
 
 ## Writing
 
@@ -28,6 +23,8 @@ November 2019: Book Review: The Costs of Connection: How Data is Colonizing Huma
 
 April 2019: Google's pay audit and the meaning of 'equality', a blog post for the Human Rights, Big Data and Technology Project.
 
+## Conference presentations
+
 ## Work history
 
 From 2011 to 2019, I worked at the International Secretariat of Amnesty International, of which six years was spent in research and policy advice roles covering the rights of LGBTI people and of human rights defenders.
@@ -35,6 +32,15 @@ From 2011 to 2019, I worked at the International Secretariat of Amnesty Internat
 I have also worked as a caseworker for domestic violence and hate crime cases, a freelance maths tutor, a bartender, and an assistant language teacher for elementary and junior high school students in rural Wakayama, Japan.
 
 I have an MA in Gender Studies from SOAS and a BA in Mathematics from the University of Cambridge.
+
+## Open science 
+
+I am an active contributor to the Turing Way open-source book project. 
+
+I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows, which ran from September to December 2020. 
+Together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
+The Guide aims to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
+This project built on work I did while based at the [Alan Turing Institute](https://www.turing.ac.uk/) in London as an Enrichment Student from January to September 2020.
 
 ## Board and advisory work
 
