@@ -15,17 +15,17 @@ Past and current clients include [Frontline AIDS](https://frontlineaids.org/), [
 
 ## Writing
 
-July 2020: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
+_July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
 
-May 2020: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a report of [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
+_May 2020_: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a report of [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
 
-November 2019: [Book Review: The Costs of Connection: How Data is Colonizing Human Life and Appropriating It for Capitalism by Nick Couldry and Ulises A. Mejias](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/19/book-review-the-costs-of-connection-how-data-is-colonizing-human-life-and-appropriating-it-for-capitalism-by-nick-couldry-and-ulises-a-mejias/) for LSE Review of Books.
+_November 2019_: [Book Review: The Costs of Connection: How Data is Colonizing Human Life and Appropriating It for Capitalism by Nick Couldry and Ulises A. Mejias](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/19/book-review-the-costs-of-connection-how-data-is-colonizing-human-life-and-appropriating-it-for-capitalism-by-nick-couldry-and-ulises-a-mejias/) for LSE Review of Books.
 
-April 2019: [Google's pay audit and the meaning of 'equality'](https://hrcessex.wordpress.com/2019/04/23/googles-pay-audit-and-the-meaning-of-equality/), a blog post for the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/).
+_April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcessex.wordpress.com/2019/04/23/googles-pay-audit-and-the-meaning-of-equality/), a blog post for the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/).
 
 ## Conference presentations
 
-October 2020: Together with Emily Dwyer, co-founder of Edge Effect I presented at the Communicating with Disaster-Affected Communities (CDAC) Forum 2020 on some of the issues concerning inclusion and exclusion of LGBTI people from data-driven work in the development sector. Our 10-minute presentation is online [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
+_October 2020_: Together with Emily Dwyer, co-founder of Edge Effect I presented at the Communicating with Disaster-Affected Communities (CDAC) Forum 2020 on some of the issues concerning inclusion and exclusion of LGBTI people from data-driven work in the development sector. Our 10-minute presentation is online [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
 
 ## Work history
 
@@ -46,7 +46,7 @@ This project built on work I did while based at the [Alan Turing Institute](http
 
 ## Board and advisory work
 
-I'm a trustee of the [Feminist Review Trust](http://www.feminist-review-trust.com/), which allocates c.GBP25,000 to feminist projects worldwide annually. 
+I'm a trustee of the [Feminist Review Trust](http://www.feminist-review-trust.com/), which allocates around GBP 25,000 to feminist projects worldwide annually. 
 I also volunteered as a screener for the [EuroCentralAsian Lesbian* Community](https://europeanlesbianconference.org/)'s COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
 
 I am on the [DataKind UK](https://www.datakind.org/chapters/datakind-uk) Ethics Committee: amongst other things, we organise data ethics [book clubs](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) in London and online every couple of months.
