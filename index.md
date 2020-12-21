@@ -15,19 +15,21 @@ Past and current clients include [Frontline AIDS](https://frontlineaids.org/), [
 
 ## Writing
 
-July 2020: Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses: part of the Essex Dialogues on Covid-19, Law and Human Rights project.
+July 2020: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
 
-May 2020: Take a seat: the AI will be with you shortly: a report of DataKind UK's Ethics Book Club on AI and medicine.
+May 2020: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a report of [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
 
-November 2019: Book Review: The Costs of Connection: How Data is Colonizing Human Life and Appropriating It for Capitalism by Nick Couldry and Ulises A. Mejias for LSE Review of Books.
+November 2019: [Book Review: The Costs of Connection: How Data is Colonizing Human Life and Appropriating It for Capitalism by Nick Couldry and Ulises A. Mejias](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/19/book-review-the-costs-of-connection-how-data-is-colonizing-human-life-and-appropriating-it-for-capitalism-by-nick-couldry-and-ulises-a-mejias/) for LSE Review of Books.
 
-April 2019: Google's pay audit and the meaning of 'equality', a blog post for the Human Rights, Big Data and Technology Project.
+April 2019: [Google's pay audit and the meaning of 'equality'](https://hrcessex.wordpress.com/2019/04/23/googles-pay-audit-and-the-meaning-of-equality/), a blog post for the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/).
 
 ## Conference presentations
 
+October 2020: Together with Emily Dwyer, co-founder of Edge Effect I presented at the Communicating with Disaster-Affected Communities (CDAC) Forum 2020 on some of the issues concerning inclusion and exclusion of LGBTI people from data-driven work in the development sector. Our 10-minute presentation is online [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) from about 35:05)
+
 ## Work history
 
-From 2011 to 2019, I worked at the International Secretariat of Amnesty International, of which six years was spent in research and policy advice roles covering the rights of LGBTI people and of human rights defenders.
+From 2011 to 2019, I worked at the International Secretariat of [Amnesty International](https://www.amnesty.org/en/), of which six years was spent in research and policy advice roles covering the rights of LGBTI people and of human rights defenders.
 
 I have also worked as a caseworker for domestic violence and hate crime cases, a freelance maths tutor, a bartender, and an assistant language teacher for elementary and junior high school students in rural Wakayama, Japan.
 
@@ -44,20 +46,20 @@ This project built on work I did while based at the [Alan Turing Institute](http
 
 ## Board and advisory work
 
-I'm a trustee of the Feminist Review Trust, which allocates c.GBP25,000 to feminist projects worldwide annually. 
-I also volunteered as a screener for the EuroCentralAsian Lesbian* Community's COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
+I'm a trustee of the [Feminist Review Trust](http://www.feminist-review-trust.com/), which allocates c.GBP25,000 to feminist projects worldwide annually. 
+I also volunteered as a screener for the [EuroCentralAsian Lesbian* Community](https://europeanlesbianconference.org/)'s COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
 
-I am on the DataKind UK Ethics Committee: amongst other things, we organise data ethics book clubs in London and online every couple of months.
+I am on the [DataKind UK](https://www.datakind.org/chapters/datakind-uk) Ethics Committee: amongst other things, we organise data ethics [book clubs](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) in London and online every couple of months.
 
-I was on the Steering Committee for the European Commission's Transgender people in the EU study, which ran from 2018 to 2020.
-The findings from the study, which covered the discrimination and harassment faced by trans people in the EU, and the impact of different legal gender recognition procedures on the lives of trans people, were published in the report Legal gender recognition in the EU: the journeys of trans people towards full equality in June 2020.
+I was on the Steering Committee for the European Commission's [Transgender people in the EU](https://ec.europa.eu/info/policies/justice-and-fundamental-rights/combatting-discrimination/lesbian-gay-bi-trans-and-intersex-equality/study-transgender-people-eu_en) study, which ran from 2018 to 2020.
+The findings from the study, which covered the discrimination and harassment faced by trans people in the EU, and the impact of different legal gender recognition procedures on the lives of trans people, were published in the report [Legal gender recognition in the EU: the journeys of trans people towards full equality](https://ec.europa.eu/info/policies/justice-and-fundamental-rights/combatting-discrimination/lesbian-gay-bi-trans-and-intersex-equality/studies-and-research-lgbti-equality_en) in June 2020.
 
 ## Other projects
 
-I contributed to the Design Justice Network's zine #5, How to make a local Design Justice node.
+I contributed to the Design Justice Network's zine #5, [How to make a local Design Justice node](https://designjustice.org/zines).
 
-I run Data/Feminism, a weekly(ish) newsletter that looks at algorithms, data and technology from a feminist perspective. The archives are online.
+I run [Data/Feminism](https://tinyletter.com/data-feminism), a weekly(ish) newsletter that looks at algorithms, data and technology from a feminist perspective. The [archives](https://tinyletter.com/data-feminism/archive) are online.
 
-I wrote a satirical twitter bot that gives individual self-care advice for coping with structural problems.
+I wrote a satirical twitter bot that gives [individual self-care advice](https://twitter.com/lifeadvicebot) for coping with structural problems.
 
-My tiny plot in a North London community garden has an Instagram.
+My tiny plot in a North London community garden has an [Instagram](https://www.instagram.com/lauragardenn7/).
