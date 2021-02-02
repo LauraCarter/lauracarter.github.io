@@ -25,7 +25,7 @@ _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcesse
 
 ## Conference presentations
 
-_May 2021_: **‘Tech Winners and Losers: What’s in Your Backpack?’**, with Isobel Talks (PhD candidate, University of Oxford), at Civic Participation in the Datafied Society, Cardiff, UK (postponed from 2020 due to COVID-19) 
+~~_May 2021_: **‘Tech Winners and Losers: What’s in Your Backpack?’**, with Isobel Talks (PhD candidate, University of Oxford), at Civic Participation in the Datafied Society, Cardiff, UK~~ (cancelled due to COVID-19) 
 
 _October 2020_: **'Cloudy With Silver Linings: Including people with diverse SOGIESC in Humanitarian AI'**, with Emily Dwyer, co-director of [Edge Effect](https://www.edgeeffect.org/), Communicating with Disaster-Affected Communities (CDAC) Forum 2020, online. Our 10-minute presentation is [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
 
@@ -65,11 +65,11 @@ The findings from the study, which covered the discrimination and harassment fac
 
 ## Other projects
 
-I contributed to the Design Justice Network's zine #5, [How to make a local Design Justice node](https://designjustice.org/zines).
-
 I run [Data/Feminism](https://tinyletter.com/data-feminism), a weekly(ish) newsletter that looks at algorithms, data and technology from a feminist perspective. The [archives](https://tinyletter.com/data-feminism/archive) are online.
 
 I wrote a satirical twitter bot that gives [individual self-care advice](https://twitter.com/lifeadvicebot) for coping with structural problems.
+
+I contributed to the Design Justice Network's zine #5, [How to make a local Design Justice node](https://designjustice.org/zines).
 
 My tiny plot in a North London community garden has an [Instagram](https://www.instagram.com/lauragardenn7/).
 
