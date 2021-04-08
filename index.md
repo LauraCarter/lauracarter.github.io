@@ -48,6 +48,9 @@ I have an MA in Gender Studies from SOAS and a BA in Mathematics from the Univer
 I am an active contributor to the [Turing Way](https://the-turing-way.netlify.app/welcome) open-source book project.
 Guidance on how to join the community of contributors is in the [project repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
+I'm a mentor in the third cohort of [Open Life Science](https://openlifesci.org/).
+I'm excited to be mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language.
+
 I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows, which ran from September to December 2020. 
 Together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
 The Guide aims to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
