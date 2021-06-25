@@ -15,11 +15,11 @@ Past and current clients include [Frontline AIDS](https://frontlineaids.org/), [
 
 ## Writing
 
-_May 2021_: [“In the end, it is all about power:” DataKind UK’s Coded Bias Watch Party](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a report of [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
+_May 2021_: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
 
 _July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
 
-_May 2020_: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a report of [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
+_May 2020_: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a blog post on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
 
 _November 2019_: [Book Review: The Costs of Connection: How Data is Colonizing Human Life and Appropriating It for Capitalism by Nick Couldry and Ulises A. Mejias](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/19/book-review-the-costs-of-connection-how-data-is-colonizing-human-life-and-appropriating-it-for-capitalism-by-nick-couldry-and-ulises-a-mejias/) for LSE Review of Books.
 
