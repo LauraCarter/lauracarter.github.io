@@ -27,6 +27,8 @@ _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcesse
 
 ## Conference presentations
 
+_Jun 2021_: **The Turing Way Guide to Ethical Research** with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
+
 _May 2020_: ~~**‘Tech Winners and Losers: What’s in Your Backpack?’**, with Isobel Talks (PhD candidate, University of Oxford), at Civic Participation in the Datafied Society, Cardiff, UK~~ (cancelled due to COVID-19) 
 
 _October 2020_: **'Cloudy With Silver Linings: Including people with diverse SOGIESC in Humanitarian AI'**, with Emily Dwyer, co-director of [Edge Effect](https://www.edgeeffect.org/), Communicating with Disaster-Affected Communities (CDAC) Forum 2020, online. Our 10-minute presentation is [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
