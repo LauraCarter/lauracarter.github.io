@@ -27,7 +27,7 @@ _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcesse
 
 ## Conference presentations
 
-_Jun 2021_: **The Turing Way Guide to Ethical Research** with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
+_Jun 2021_: **'The Turing Way Guide to Ethical Research'** with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
 
 _May 2020_: ~~**‘Tech Winners and Losers: What’s in Your Backpack?’**, with Isobel Talks (PhD candidate, University of Oxford), at Civic Participation in the Datafied Society, Cardiff, UK~~ (cancelled due to COVID-19) 
 
