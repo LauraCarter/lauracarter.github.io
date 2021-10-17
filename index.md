@@ -10,7 +10,7 @@ my research focuses on the use of data assemblages in children's social services
 My supervisors are [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Dr Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
 
 I'm also occasionally a gender consultant and advisor, with specific expertise in human rights, and discrimination on the grounds of sexual orientation, gender identity and sex characteristics. 
-Past and current clients include [Frontline AIDS](https://frontlineaids.org/), [Edge Effect](https://www.edgeeffect.org/), and the [World Bank Group](https://www.worldbank.org/). 
+Past and current clients include the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/), [Frontline AIDS](https://frontlineaids.org/), [Edge Effect](https://www.edgeeffect.org/), and the [World Bank Group](https://www.worldbank.org/). 
 [Email me](mailto:laura.carter@essex.ac.uk) for more information.
 
 ## Writing
