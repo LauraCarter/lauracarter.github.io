@@ -13,11 +13,18 @@ I'm also occasionally a gender consultant and advisor, with specific expertise i
 Past and current clients include the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/), [Frontline AIDS](https://frontlineaids.org/), [Edge Effect](https://www.edgeeffect.org/), and the [World Bank Group](https://www.worldbank.org/). 
 [Email me](mailto:laura.carter@essex.ac.uk) for more information.
 
-## Writing
+## Publications
 
-_May 2021_: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
+_December 2021_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state): Internet Policy Review 10(4)
+
 
 _July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
+
+## Writing
+
+_November 2021_: [“There is always an element of judgement”](https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c): a blog post on an event on web scraping organised by [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
+
+_May 2021_: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
 
 _May 2020_: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a blog post on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
 
@@ -49,15 +56,13 @@ I have an MA in Gender Studies from SOAS and a BA in Mathematics from the Univer
 
 ## Open science 
 
-I am an active contributor to the [Turing Way](https://the-turing-way.netlify.app/welcome) open-source book project.
+I am an active contributor to the [Turing Way](https://the-turing-way.netlify.app/welcome) open-source book project, which aims to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
 Guidance on how to join the community of contributors is in the [project repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
-I'm a mentor in the third cohort of [Open Life Science](https://openlifesci.org/).
-I'm excited to be mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language.
+I am on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022.](https://software.ac.uk/cw22), which will focus on Code Review,     Ethics, Hybrid Working and of course Software Sustainability. 
+Registration is open now!
 
-I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows, which ran from September to December 2020. 
-Together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
-The Guide aims to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
+I was a mentor in the third cohort of [Open Life Science](https://openlifesci.org/), mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language. In 2020, I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows: together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
 This project built on work I did while based at the [Alan Turing Institute](https://www.turing.ac.uk/) in London as an Enrichment Student from January to September 2020.
 
 ## Board and advisory work
@@ -72,11 +77,11 @@ The findings from the study, which covered the discrimination and harassment fac
 
 ## Other projects
 
-I run [Data/Feminism](https://tinyletter.com/data-feminism), a weekly(ish) newsletter that looks at algorithms, data and technology from a feminist perspective. The [archives](https://tinyletter.com/data-feminism/archive) are online.
-
 I wrote a satirical twitter bot that gives [individual self-care advice](https://twitter.com/lifeadvicebot) for coping with structural problems.
 
 I contributed to the Design Justice Network's zine #5, [How to make a local Design Justice node](https://designjustice.org/zines).
+
+I ran [Data/Feminism](https://tinyletter.com/data-feminism), a weekly(ish) newsletter that looked at algorithms, data and technology from a feminist perspective. The [archives](https://tinyletter.com/data-feminism/archive) are online.
 
 My tiny plot in a North London community garden has an [Instagram](https://www.instagram.com/lauragardenn7/).
 
