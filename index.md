@@ -59,8 +59,9 @@ I have an MA in Gender Studies from SOAS and a BA in Mathematics from the Univer
 I am an active contributor to the [Turing Way](https://the-turing-way.netlify.app/welcome) open-source book project, which aims to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
 Guidance on how to join the community of contributors is in the [project repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
-I am on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022.](https://software.ac.uk/cw22), which will focus on Code Review,     Ethics, Hybrid Working and of course Software Sustainability. 
-Registration is open now!
+I am on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022](https://software.ac.uk/cw22),
+CW22 will be held online 4-7 April 2022, and this year's themes are Code Review, Ethics, Hybrid Working and of course Software Sustainability. 
+[Registration](https://www.eventbrite.co.uk/e/collaborations-workshop-2022-cw22-collabw22-tickets-208545032807?aff=SSIWebsite) is open now!
 
 I was a mentor in the third cohort of [Open Life Science](https://openlifesci.org/), mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language. In 2020, I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows: together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
 This project built on work I did while based at the [Alan Turing Institute](https://www.turing.ac.uk/) in London as an Enrichment Student from January to September 2020.
