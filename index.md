@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-I'm a PhD student in the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/) at the [University of Essex](https://www.essex.ac.uk/). 
+I'm a PhD candidate in the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/) at the [University of Essex](https://www.essex.ac.uk/). 
 I'm researching the ways in which gender stereotypes are encoded into data-driven decision-making systems in the UK public sector: 
 my research focuses on the use of data assemblages in children's social services in England. 
 My supervisors are [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Dr Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
