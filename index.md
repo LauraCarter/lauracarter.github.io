@@ -17,7 +17,6 @@ Past and current clients include the [Ada Lovelace Institute](https://www.adalov
 
 _December 2021_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state): Internet Policy Review 10(4)
 
-
 _July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
 
 ## Writing
@@ -59,17 +58,17 @@ I have an MA in Gender Studies from SOAS and a BA in Mathematics from the Univer
 I am an active contributor to the [Turing Way](https://the-turing-way.netlify.app/welcome) open-source book project, which aims to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
 Guidance on how to join the community of contributors is in the [project repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
-I am on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022](https://software.ac.uk/cw22),
-CW22 will be held online 4-7 April 2022, and this year's themes are Code Review, Ethics, Hybrid Working and of course Software Sustainability. 
-[Registration](https://www.eventbrite.co.uk/e/collaborations-workshop-2022-cw22-collabw22-tickets-208545032807?aff=SSIWebsite) is open now!
-
-I was a mentor in the third cohort of [Open Life Science](https://openlifesci.org/), mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language. In 2020, I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows: together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
+I was a mentor in the third cohort of [Open Life Science](https://openlifesci.org/), mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language. 
+In 2020, I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows: together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
 This project built on work I did while based at the [Alan Turing Institute](https://www.turing.ac.uk/) in London as an Enrichment Student from January to September 2020.
 
 ## Board and advisory work
 
 I'm a trustee of the [Feminist Review Trust](http://www.feminist-review-trust.com/), which allocates around GBP 25,000 to feminist projects worldwide annually. 
 I also volunteered as a screener for the [EuroCentralAsian Lesbian* Community](https://europeanlesbianconference.org/)'s COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
+
+I was on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022](https://software.ac.uk/cw22), for which the themes were Code Review, Ethics, Hybrid Working and of course Software Sustainability. 
+I chaired a panel on practical ethics in research software development, which is available to watch [online](https://www.youtube.com/watch?v=AfotGso8rDI). 
 
 In 2020 and 2021, I was on the [DataKind UK](https://www.datakind.org/chapters/datakind-uk) Ethics Committee: we ran ethics trainings for DataKind volunteers, supported DataCorps projects, and organised data ethics panel discussions and [book clubs](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) in London and online.
 
