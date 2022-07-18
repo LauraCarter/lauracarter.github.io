@@ -21,6 +21,8 @@ _July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions 
 
 ## Writing
 
+_February 2022_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://essexlawresearch.blog/2022/02/08/prescripted-living-gender-stereotypes-and-data-based-surveillance-in-the-uk-welfare-state/): a post for the Essex Law Research Blog summarising my [Internet Policy Review paper](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state). It was the [most-viewed blog post](https://essexlawresearch.blog/2022/07/07/our-2022-essex-law-research-blog-prizes/) by a doctoral student in the 2021-22 academic year. 
+
 _November 2021_: [“There is always an element of judgement”](https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c): a blog post on an event on web scraping organised by [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
 
 _May 2021_: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
@@ -44,6 +46,18 @@ _November 2019_: **‘Prescripted living: gender stereotypes and surveillance te
 _March 2019_: **‘Gender stereotyping in machine learning: a technical necessity or a human rights violation?’** Cambridge International Law Journal Conference, Cambridge, UK
 
 _March 2019_: **‘Gender stereotyping in international human rights law,’** Human Rights Triangle Conference, London UK
+
+## Panels and invited talks
+
+_July 2022_: **'The impact, value, and challenges for women and open data sharing,'** panellist, with Paz Bernaldo (Open Life Science), Esther Plomp (Delft University of Technology, Netherlands), and Irene Ramos (National Commission for the Knowledge and Use of Biodiversity (CONABIO), Mexico); facilitated by Emmy Tsang (Open Life Science); [IFLC WLIC 2022](https://2022.ifla.org/conference-programme/), online
+
+_June 2022_: **'Sex, gender, binaries and categories: frictions in data about humans,'** The Alan Turing Institute, London, UK
+
+_May 2022_: **‘Surveillance and Subjecthood: Gender, Race, and Class in the Constitution of Data Subjects,’** panellist, with Jens T. Theilen (Helmut-Schmidt-University, Hamburg, Germany) and Aisha P.L. Kadiri (École normale supérieure, Paris, France); chaired by Felix Bieker (Office of the Data Protection Commissioner (ULD) Schleswig-Holstein, Kiel, Germany); Surveillance & Society Conference 2022, Rotterdam/online 
+
+_April 2022_: **‘Practical ethics in research software development’** chair and convenor, with Garnett Achieng (Data & Digital Rights Researcher, Pollicy), Arielle Bennett (Research Project Manager, Tools, Practices, & Systems, The Alan Turing Institute), Stef Garasto (Ethics Committee Member, DataKind UK), and Andrew Strait (Associate Director of Research Partnerships, Ada Lovelace Institute); Collaborations Workshop 2022, online
+
+_June 2021_: **'Technologies for gender diversity: the impact of gender diverse leadership on the design of human rights technologies,’** panellist, with Enrique Piraces (Carnegie Mellon University), Kat Lo (Meedan), Yvonne McDermott Rees (Swansea University), Eriol Fox (Newcastle University); chaired by Hae Ju Kang (Korea Future); RightsCon 2021, online
 
 ## Work history
 
