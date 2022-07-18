@@ -55,7 +55,7 @@ _June 2022_: **'Sex, gender, binaries and categories: frictions in data about hu
 
 _May 2022_: **‘Surveillance and Subjecthood: Gender, Race, and Class in the Constitution of Data Subjects,’** panellist, with Jens T. Theilen (Helmut-Schmidt-University, Hamburg, Germany) and Aisha P.L. Kadiri (École normale supérieure, Paris, France); chaired by Felix Bieker (Office of the Data Protection Commissioner (ULD) Schleswig-Holstein, Kiel, Germany); Surveillance & Society Conference 2022, Rotterdam/online 
 
-_April 2022_: **‘Practical ethics in research software development’** chair and convenor, with Garnett Achieng (Data & Digital Rights Researcher, Pollicy), Arielle Bennett (Research Project Manager, Tools, Practices, & Systems, The Alan Turing Institute), Stef Garasto (Ethics Committee Member, DataKind UK), and Andrew Strait (Associate Director of Research Partnerships, Ada Lovelace Institute); Collaborations Workshop 2022, online
+_April 2022_: **‘Practical ethics in research software development,’** chair and convenor, with Garnett Achieng (Data & Digital Rights Researcher, Pollicy), Arielle Bennett (Research Project Manager, Tools, Practices, & Systems, The Alan Turing Institute), Stef Garasto (Ethics Committee Member, DataKind UK), and Andrew Strait (Associate Director of Research Partnerships, Ada Lovelace Institute); Collaborations Workshop 2022, online (available on [YouTube](https://www.youtube.com/watch?v=AfotGso8rDI))
 
 _June 2021_: **'Technologies for gender diversity: the impact of gender diverse leadership on the design of human rights technologies,’** panellist, with Enrique Piraces (Carnegie Mellon University), Kat Lo (Meedan), Yvonne McDermott Rees (Swansea University), Eriol Fox (Newcastle University); chaired by Hae Ju Kang (Korea Future); RightsCon 2021, online
 
@@ -82,7 +82,6 @@ I'm a trustee of the [Feminist Review Trust](http://www.feminist-review-trust.co
 I also volunteered as a screener for the [EuroCentralAsian Lesbian* Community](https://europeanlesbianconference.org/)'s COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
 
 I was on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022](https://software.ac.uk/cw22), for which the themes were Code Review, Ethics, Hybrid Working and of course Software Sustainability. 
-I chaired a panel on practical ethics in research software development, which is available to watch [online](https://www.youtube.com/watch?v=AfotGso8rDI). 
 
 In 2020 and 2021, I was on the [DataKind UK](https://www.datakind.org/chapters/datakind-uk) Ethics Committee: we ran ethics trainings for DataKind volunteers, supported DataCorps projects, and organised data ethics panel discussions and [book clubs](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) in London and online.
 
