@@ -2,16 +2,16 @@
 layout: default
 ---
 
+## Work
+
+In August 2022 I joined the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithms. 
+
 ## Research
 
 I'm a PhD candidate in the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/) at the [University of Essex](https://www.essex.ac.uk/). 
 I'm researching the ways in which gender stereotypes are encoded into data-driven decision-making systems in the UK public sector: 
 my research focuses on the use of data assemblages in children's social services in England. 
 My supervisors are [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Dr Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
-
-I'm also occasionally a gender consultant and advisor, with specific expertise in human rights, and discrimination on the grounds of sexual orientation, gender identity and sex characteristics. 
-Past and current clients include the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/), [Frontline AIDS](https://frontlineaids.org/), [Edge Effect](https://www.edgeeffect.org/), and the [World Bank Group](https://www.worldbank.org/). 
-[Email me](mailto:laura.carter@essex.ac.uk) for more information.
 
 ## Publications
 
@@ -20,6 +20,8 @@ _December 2021_: [Prescripted Living: Gender Stereotypes and Data-Based Surveill
 _July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
 
 ## Writing
+
+_August 2022_: [The Human Rights Case for Open Science](https://openheroines.org/the-human-rights-case-for-open-science-ff58578b09ee): a blog post commissioned by [Open Heroines](https://openheroines.medium.com/) as part of their writing grants series aiming to elevate the voices of women and non-binary people in open spaces. This pieces was republished in the [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/17/the-human-rights-case-for-open-science/). 
 
 _February 2022_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://essexlawresearch.blog/2022/02/08/prescripted-living-gender-stereotypes-and-data-based-surveillance-in-the-uk-welfare-state/): a post for the Essex Law Research Blog summarising my [Internet Policy Review paper](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state). It was the [most-viewed blog post](https://essexlawresearch.blog/2022/07/07/our-2022-essex-law-research-blog-prizes/) by a doctoral student in the 2021-22 academic year. 
 
