@@ -104,4 +104,6 @@ My tiny plot in a North London community garden has an [Instagram](https://www.i
 
 [Email](mailto:laura.carter@essex.ac.uk)
 
+<a rel="me" href="https://scholar.social/@LauraC_rter">Mastodon</a>
+
 [Twitter](https://twitter.com/LauraC_rter)
