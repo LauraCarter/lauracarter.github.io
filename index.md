@@ -4,14 +4,13 @@ layout: default
 
 ## Work
 
-In August 2022 I joined the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithms. 
+In August 2022 I joined the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I am currently leading a research project investigating the experience of local authority staff using a data analytics system in a London borough. 
 
 ## Research
 
-I'm a PhD candidate in the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/) at the [University of Essex](https://www.essex.ac.uk/). 
-I'm researching the ways in which gender stereotypes are encoded into data-driven decision-making systems in the UK public sector: 
-my research focuses on the use of data assemblages in children's social services in England. 
-My supervisors are [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Dr Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
+In April 2023 I submitted my PhD thesis _Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_. My viva voce examination is scheduled for July 2023. 
+
+I carried out my research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/). My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
 
 ## Publications
 
@@ -102,8 +101,6 @@ My tiny plot in a North London community garden has an [Instagram](https://www.i
 
 ## Contact me
 
-[Email](mailto:laura.carter@essex.ac.uk)
+[Email](mailto:laura.carter@cantab.net)
 
 <a rel="me" href="https://scholar.social/@LauraC_rter">Mastodon</a>
-
-[Twitter](https://twitter.com/LauraC_rter)
