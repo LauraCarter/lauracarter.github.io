@@ -8,7 +8,10 @@ In August 2022 I joined the [Ada Lovelace Institute](https://www.adalovelaceinst
 
 ## Research
 
-In July 2023 I successfully defended my PhD thesis _Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_. I carried out my research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/). My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
+In July 2023 I successfully defended my PhD thesis _Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_. 
+
+I carried out my research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/). 
+My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
 
 ## Publications
 
@@ -18,9 +21,11 @@ _July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions 
 
 ## Writing
 
-_August 2022_: [The Human Rights Case for Open Science](https://openheroines.org/the-human-rights-case-for-open-science-ff58578b09ee): a blog post commissioned by [Open Heroines](https://openheroines.medium.com/) as part of their writing grants series aiming to elevate the voices of women and non-binary people in open spaces. This pieces was republished in the [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/17/the-human-rights-case-for-open-science/). 
+_August 2022_: [The Human Rights Case for Open Science](https://openheroines.org/the-human-rights-case-for-open-science-ff58578b09ee): a blog post commissioned by [Open Heroines](https://openheroines.medium.com/) as part of their writing grants series aiming to elevate the voices of women and non-binary people in open spaces. 
+This pieces was republished in the [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/17/the-human-rights-case-for-open-science/). 
 
-_February 2022_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://essexlawresearch.blog/2022/02/08/prescripted-living-gender-stereotypes-and-data-based-surveillance-in-the-uk-welfare-state/): a post for the Essex Law Research Blog summarising my [Internet Policy Review paper](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state). It was the [most-viewed blog post](https://essexlawresearch.blog/2022/07/07/our-2022-essex-law-research-blog-prizes/) by a doctoral student in the 2021-22 academic year. 
+_February 2022_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://essexlawresearch.blog/2022/02/08/prescripted-living-gender-stereotypes-and-data-based-surveillance-in-the-uk-welfare-state/): a post for the Essex Law Research Blog summarising my [Internet Policy Review paper](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state). 
+It was the [most-viewed blog post](https://essexlawresearch.blog/2022/07/07/our-2022-essex-law-research-blog-prizes/) by a doctoral student in the 2021-22 academic year. 
 
 _November 2021_: [“There is always an element of judgement”](https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c): a blog post on an event on web scraping organised by [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
 
@@ -38,7 +43,8 @@ _June 2023_: **'Categorising the ‘Troubled Family’: Data Sharing, Binary Cla
 
 _June 2021_: **'The Turing Way Guide to Ethical Research'** with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
 
-_October 2020_: **'Cloudy With Silver Linings: Including people with diverse SOGIESC in Humanitarian AI'**, with Emily Dwyer, co-director of [Edge Effect](https://www.edgeeffect.org/), Communicating with Disaster-Affected Communities (CDAC) Forum 2020, online. Our 10-minute presentation is [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
+_October 2020_: **'Cloudy With Silver Linings: Including people with diverse SOGIESC in Humanitarian AI'**, with Emily Dwyer, co-director of [Edge Effect](https://www.edgeeffect.org/), Communicating with Disaster-Affected Communities (CDAC) Forum 2020, online. 
+Our 10-minute presentation is [here](https://www.youtube.com/watch?v=LsdogXR0pQU&list=PLCsaGtm-xLw6vGHG2AK-Guc5DCto77Dsi&index=3) (from about 35:05).
 
 _May 2020_: ~~**‘Tech Winners and Losers: What’s in Your Backpack?’**, with Isobel Talks (PhD candidate, University of Oxford), at Civic Participation in the Datafied Society, Cardiff, UK~~ (cancelled due to COVID-19) 
 
