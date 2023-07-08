@@ -8,9 +8,7 @@ In August 2022 I joined the [Ada Lovelace Institute](https://www.adalovelaceinst
 
 ## Research
 
-In April 2023 I submitted my PhD thesis _Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_. My viva voce examination is scheduled for July 2023. 
-
-I carried out my research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/). My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
+In July 2023 I successfully defended my PhD thesis _Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_. I carried out my research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/). My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
 
 ## Publications
 
@@ -35,6 +33,8 @@ _November 2019_: [Book Review: The Costs of Connection: How Data is Colonizing H
 _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcessex.wordpress.com/2019/04/23/googles-pay-audit-and-the-meaning-of-equality/), a blog post for the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/).
 
 ## Conference presentations
+
+_June 2023_: **'Categorising the ‘Troubled Family’: Data Sharing, Binary Classifications and Family Role Stereotyping in Children’s Social Care in England',** (The Datafied Family: Algorithmic Encounters in Care, Intimacies, Routine and Play)[https://www.ias.surrey.ac.uk/event/the-datafied-family-algorithmic-encounters-in-care-intimacies-routine-and-play/], online.
 
 _June 2021_: **'The Turing Way Guide to Ethical Research'** with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
 
