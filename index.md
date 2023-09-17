@@ -17,7 +17,7 @@ My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mc
 
 _December 2021_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state): Internet Policy Review 10(4)
 
-_July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
+_July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](https://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
 
 ## Writing
 
@@ -85,7 +85,7 @@ This project built on work I did while based at the [Alan Turing Institute](http
 
 ## Board and advisory work
 
-I'm a trustee of the [Feminist Review Trust](http://www.feminist-review-trust.com/), which allocates around GBP 25,000 to feminist projects worldwide annually. 
+I'm a trustee of the [Feminist Review Trust](https://www.feminist-review-trust.com/), which allocates around GBP 25,000 to feminist projects worldwide annually. 
 I also volunteered as a screener for the [EuroCentralAsian Lesbian* Community](https://europeanlesbianconference.org/)'s COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
 
 I was on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022](https://software.ac.uk/cw22), for which the themes were Code Review, Ethics, Hybrid Working and of course Software Sustainability. 
