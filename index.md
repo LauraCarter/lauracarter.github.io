@@ -107,7 +107,7 @@ My tiny plot in a North London community garden has an [Instagram](https://www.i
 
 ## Contact me
 
-[Email](mailto:laura.carter@cantab.net)
+[Email](mailto:hello@lauracarter.net)
 
 <a rel="me" href="https://scholar.social/@LauraC_rter">Mastodon</a>
 
