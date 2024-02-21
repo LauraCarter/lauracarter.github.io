@@ -2,10 +2,6 @@
 layout: default
 ---
 
-## Work
-
-In August 2022 I joined the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I am currently leading a research project investigating the experience of local authority staff using a data analytics system in a London borough. 
-
 ## Research
 
 In July 2023 I successfully defended my PhD thesis [_Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_](https://repository.essex.ac.uk/36627/). 
@@ -68,6 +64,8 @@ _June 2021_: **'Technologies for gender diversity: the impact of gender diverse 
 
 ## Work history
 
+From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I led a research project investigating the experience of local authority staff using a data analytics system in a London borough. 
+
 From 2011 to 2019, I worked at the International Secretariat of [Amnesty International](https://www.amnesty.org/en/), of which six years was spent in research and policy advice roles covering the rights of LGBTI people and of human rights defenders.
 
 I have also worked as a caseworker for domestic violence and hate crime cases, a freelance maths tutor, a bartender, and an assistant language teacher for elementary and junior high school students in rural Wakayama, Japan.
@@ -79,7 +77,7 @@ I have an MA in Gender Studies from SOAS and a BA in Mathematics from the Univer
 I am an active contributor to the [Turing Way](https://the-turing-way.netlify.app/welcome) open-source book project, which aims to build open-source resources for reproducible, responsible and ethical data science, and a community to put these resources into practice. 
 Guidance on how to join the community of contributors is in the [project repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
-I was a mentor in the third cohort of [Open Life Science](https://openlifesci.org/), mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language. 
+I was a mentor in two cohorts of [Open Life Science](https://openlifesci.org/), mentoring the [HausaNLP](https://github.com/hausanlp) project leaders, who are building an open source community that promotes natural language processing work in the Hausa language, and a project developing data sharing frameworks in bioinformatics.  
 In 2020, I was part of the second cohort of [Open Life Science](https://openlifesci.org/) Fellows: together with [Sophia Batchelor](https://twitter.com/brainonsilicon) and [Ismael Kherroubi Garcia](https://twitter.com/ismaelkhergar), I built a community of practice for the Turing Way's [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html). 
 This project built on work I did while based at the [Alan Turing Institute](https://www.turing.ac.uk/) in London as an Enrichment Student from January to September 2020.
 
@@ -97,13 +95,15 @@ The findings from the study, which covered the discrimination and harassment fac
 
 ## Other projects
 
+I have a [blog](https://seattleblog.lauracarter.net/) about living in Seattle.
+
 I wrote a satirical twitter bot that gives [individual self-care advice](https://twitter.com/lifeadvicebot) for coping with structural problems.
 
 I contributed to the Design Justice Network's zine #5, [How to make a local Design Justice node](https://designjustice.org/zines).
 
 I ran [Data/Feminism](https://tinyletter.com/data-feminism), a weekly(ish) newsletter that looked at algorithms, data and technology from a feminist perspective. The [archives](https://tinyletter.com/data-feminism/archive) are online.
 
-My tiny plot in a North London community garden has an [Instagram](https://www.instagram.com/lauragardenn7/).
+My tiny plot in a North London community garden had an [Instagram](https://www.instagram.com/lauragardenn7/).
 
 ## Contact me
 
