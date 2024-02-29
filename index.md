@@ -2,9 +2,18 @@
 layout: default
 ---
 
+## About Me
+
+Where something is going wrong for people, I want to find out why and how we can fix it.
+I'm experienced in developing and leading research projects to find out what is going wrong for whom, why, and how to make changes that have an impact on people's lives. 
+I've worked in the spaces where human rights, intersectional discrimination, new technologies and social justice interact. 
+I write well-researched, rigourous and clear reports, for technical and non-technical audiences.
+
+I recently relocated to the traditional land of the Duwamish people in Seattle, where I am writing a book proposal developing my PhD thesis research on discrimination in data, and [writing about other things](https://seattleblog.lauracarter.net/) as well.
+
 ## Research
 
-In July 2023 I successfully defended my PhD thesis [_Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_](https://repository.essex.ac.uk/36627/). 
+In July 2023 I successfully defended my PhD thesis [_Machine-Readable Lives or ‘Troubled Families’? Classification, categorisation and stereotyping in data collection and sharing in children’s social care in England_](https://repository.essex.ac.uk/36627/). I'm currently developing a book proposal based on part of this work. 
 
 I carried out my research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/). 
 My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood).
