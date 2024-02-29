@@ -95,7 +95,7 @@ The findings from the study, which covered the discrimination and harassment fac
 
 ## Other projects
 
-I have a [blog](https://seattleblog.lauracarter.net/) about living in Seattle.
+I have a [blog](https://seattleblog.lauracarter.net/) about living in Seattle, and sometimes other things too.
 
 I wrote a satirical twitter bot that gives [individual self-care advice](https://twitter.com/lifeadvicebot) for coping with structural problems.
 
