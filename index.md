@@ -9,7 +9,8 @@ I'm experienced in developing and leading research projects to find out what is 
 I've worked in the spaces where human rights, intersectional discrimination, new technologies and social justice interact. 
 I write well-researched, rigourous and clear reports, for technical and non-technical audiences.
 
-I recently relocated to the traditional land of the Duwamish people in Seattle, where I am writing a book proposal developing my PhD thesis research on discrimination in data, and [writing about other things](https://seattleblog.lauracarter.net/) as well.
+I recently relocated to the traditional land of the Duwamish people in Seattle, where I am writing a book proposal developing my PhD thesis research on discrimination in data, and [writing about other things](https://seattleblog.lauracarter.net/) as well. 
+I'm also doing a bit of consulting: please do get in touch if you're in need of short-term research support!
 
 ## Research
 
