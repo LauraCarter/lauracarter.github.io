@@ -9,7 +9,7 @@ I'm experienced in developing and leading research projects to find out what is 
 I've worked in the spaces where human rights, intersectional discrimination, new technologies and social justice interact. 
 I write well-researched, rigourous and clear reports, for technical and non-technical audiences.
 
-I recently relocated to the traditional land of the Duwamish people in Seattle, where I am writing a book proposal developing my PhD thesis research on discrimination in data, and [writing about other things](https://seattleblog.lauracarter.net/) as well. 
+I recently relocated to the traditional land of the Duwamish people in Seattle, where I am writing a book proposal developing my PhD thesis research on data about people, and [writing about other things](https://seattleblog.lauracarter.net/) as well. 
 I'm also doing a bit of consulting: please do get in touch if you're in need of short-term research support!
 
 ## Research
@@ -64,7 +64,7 @@ _March 2019_: **‘Gender stereotyping in international human rights law,’** H
 
 _July 2022_: **'The impact, value, and challenges for women and open data sharing,'** panellist, with Paz Bernaldo (Open Life Science), Esther Plomp (Delft University of Technology, Netherlands), and Irene Ramos (National Commission for the Knowledge and Use of Biodiversity (CONABIO), Mexico); facilitated by Emmy Tsang (Open Life Science); [IFLC WLIC 2022](https://2022.ifla.org/conference-programme/), online
 
-_June 2022_: **'Sex, gender, binaries and categories: frictions in data about humans,'** The Alan Turing Institute, London, UK
+_June 2022_: **'Sex, gender, binaries and categories: frictions in data about humans,'** The Alan Turing Institute, London, UK, [online](https://zenodo.org/records/6655865)
 
 _May 2022_: **‘Surveillance and Subjecthood: Gender, Race, and Class in the Constitution of Data Subjects,’** panellist, with Jens T. Theilen (Helmut-Schmidt-University, Hamburg, Germany) and Aisha P.L. Kadiri (École normale supérieure, Paris, France); chaired by Felix Bieker (Office of the Data Protection Commissioner (ULD) Schleswig-Holstein, Kiel, Germany); Surveillance & Society Conference 2022, Rotterdam/online 
 
