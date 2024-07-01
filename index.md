@@ -21,9 +21,11 @@ My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mc
 
 ## Publications
 
-_December 2021_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state): Internet Policy Review 10(4)
+Sobey A and **Carter L**, ‘The Harmful Fetishisation of Reductive Personal Tracking Metrics in Digital Systems’, The 2024 ACM Conference on Fairness, Accountability, and Transparency (Association for Computing Machinery 2024) <https://dl.acm.org/doi/10.1145/3630106.3658943> 
 
-_July 2020_: [Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](https://repository.essex.ac.uk/28041/): part of the Essex Dialogues on Covid-19, Law and Human Rights project.
+**Carter L**, ‘Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State’ (2021) 10 Internet Policy Review <https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state> 
+
+**Carter L**, ‘Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses’ in Carla Ferstman and Andrew Fagan (eds), Covid-19, Law and Human Rights : Essex Dialogues. A Project of the School of Law and Human Rights Centre (University of Essex 2020) <http://repository.essex.ac.uk/28041/> 
 
 ## Writing
 
@@ -45,7 +47,11 @@ _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcesse
 
 ## Conference presentations
 
-_June 2023_: **'Categorising the ‘Troubled Family’: Data Sharing, Binary Classifications and Family Role Stereotyping in Children’s Social Care in England',** (The Datafied Family: Algorithmic Encounters in Care, Intimacies, Routine and Play)[https://www.ias.surrey.ac.uk/event/the-datafied-family-algorithmic-encounters-in-care-intimacies-routine-and-play/], online.
+_forthcoming July 2024_: **’To observe suspicious facts in child-life:’ the historical roots of AI enthusiasm in child protection services in the UK**, [Rethinking the Inevitability of AI: The Environmental and Social Impacts of Computing in Historical Context](https://uva.theopenscholar.com/rethinking-the-inevitability-of-ai/), online
+
+_June 2024_: **'The Harmful Fetishisation of Reductive Personal Tracking Metrics in Digital Systems,'** FAccT 2024, Rio de Janeiro, Brazil ([slides](https://zenodo.org/records/11402235))
+
+_June 2023_: **'Categorising the ‘Troubled Family’: Data Sharing, Binary Classifications and Family Role Stereotyping in Children’s Social Care in England',** [The Datafied Family: Algorithmic Encounters in Care, Intimacies, Routine and Play](https://www.ias.surrey.ac.uk/event/the-datafied-family-algorithmic-encounters-in-care-intimacies-routine-and-play/), online.
 
 _June 2021_: **'The Turing Way Guide to Ethical Research'** with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
 
@@ -74,7 +80,7 @@ _June 2021_: **'Technologies for gender diversity: the impact of gender diverse 
 
 ## Work history
 
-From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I led a research project investigating the experience of local authority staff using a data analytics system in a London borough. 
+From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I led on [Critical Analytics?](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/) a research project investigating the experience of local authority staff using a data analytics system in a London borough, which was published in June 2024.
 
 From 2011 to 2019, I worked at the International Secretariat of [Amnesty International](https://www.amnesty.org/en/), of which six years was spent in research and policy advice roles covering the rights of LGBTI people and of human rights defenders.
 
