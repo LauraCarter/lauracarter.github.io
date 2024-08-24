@@ -51,6 +51,7 @@ _November 2021_: [“There is always an element of judgement”](https://medium.
 
 <details>
 <summary>more...</summary>
+
 <br>
 
 _May 2021_: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
@@ -73,6 +74,7 @@ _June 2023_: 'Categorising the ‘Troubled Family’: Data Sharing, Binary Class
 
 <details>
 <summary>more...</summary>
+
 <br>
 
 _June 2021_: 'The Turing Way Guide to Ethical Research' with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
@@ -100,8 +102,8 @@ _May 2022_: ‘Surveillance and Subjecthood: Gender, Race, and Class in the Cons
 
 <details>
 <summary>more...</summary>
-<br>
 
+<br>
 _April 2022_: ‘Practical ethics in research software development,’ chair and convenor, with Garnett Achieng (Data & Digital Rights Researcher, Pollicy), Arielle Bennett (Research Project Manager, Tools, Practices, & Systems, The Alan Turing Institute), Stef Garasto (Ethics Committee Member, DataKind UK), and Andrew Strait (Associate Director of Research Partnerships, Ada Lovelace Institute); Collaborations Workshop 2022, online (available on [YouTube](https://www.youtube.com/watch?v=AfotGso8rDI))
 
 _June 2021_: 'Technologies for gender diversity: the impact of gender diverse leadership on the design of human rights technologies,’ panellist, with Enrique Piraces (Carnegie Mellon University), Kat Lo (Meedan), Yvonne McDermott Rees (Swansea University), Eriol Fox (Newcastle University); chaired by Hae Ju Kang (Korea Future); RightsCon 2021, online
@@ -127,6 +129,7 @@ In 2020 and 2021, I was on the [DataKind UK](https://www.datakind.org/chapters/d
 
 <details>
 <summary>more...</summary>
+
 <br>
 
 I volunteered as a screener for the [EuroCentralAsian Lesbian* Community](https://europeanlesbianconference.org/)'s COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
