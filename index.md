@@ -50,7 +50,11 @@ It was the [most-viewed blog post](https://essexlawresearch.blog/2022/07/07/our-
 _November 2021_: [“There is always an element of judgement”](https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c): a blog post on an event on web scraping organised by [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
 
 <details>
-<summary>more...</summary>
+<summary>
+
+#### more...
+
+</summary>
 
 <br>
 
