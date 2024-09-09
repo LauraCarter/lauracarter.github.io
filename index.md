@@ -7,7 +7,7 @@ layout: default
 Where something is going wrong for people, I want to find out why and how we can fix it.
 I'm experienced in developing and leading research projects to find out what is going wrong for whom, why, and how to make changes that have an impact on people's lives. 
 I've worked in the spaces where human rights, intersectional discrimination, new technologies and social justice interact. 
-I write well-researched, rigourous and clear reports, for technical and non-technical audiences.
+I write well-researched, rigorous and clear reports, for technical and non-technical audiences.
 
 I will be a UC Berkeley Tech Policy Fellow in the [2024-25 cohort](https://citrispolicylab.org/2425tpf/). 
 As part of the Improving Diversity in AI working group, I'll be researching how family relationships are represented in data and AI systems used in the public sector, and how these representations might reinforce stereotypes about 'normal' families. 
@@ -50,15 +50,11 @@ It was the [most-viewed blog post](https://essexlawresearch.blog/2022/07/07/our-
 _November 2021_: [“There is always an element of judgement”](https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c): a blog post on an event on web scraping organised by [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
 
 <details>
-<summary>
-
-#### more...
-
-</summary>
+<summary> <b>more...</b> </summary>
 
 <br>
 
-_May 2021_: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
+<i>May 2021</i>: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
 
 _May 2020_: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a blog post on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
 
