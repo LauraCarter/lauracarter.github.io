@@ -63,6 +63,7 @@ _November 2019_: [Book Review: The Costs of Connection: How Data is Colonizing H
 _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcessex.wordpress.com/2019/04/23/googles-pay-audit-and-the-meaning-of-equality/), a blog post for the [Human Rights, Big Data and Technology Project](https://hrbdt.ac.uk/).
 
 </details>
+<br>
 
 ## Conference presentations
 
@@ -73,7 +74,7 @@ _June 2024_: 'The Harmful Fetishisation of Reductive Personal Tracking Metrics i
 _June 2023_: 'Categorising the ‘Troubled Family’: Data Sharing, Binary Classifications and Family Role Stereotyping in Children’s Social Care in England', [The Datafied Family: Algorithmic Encounters in Care, Intimacies, Routine and Play](https://www.ias.surrey.ac.uk/event/the-datafied-family-algorithmic-encounters-in-care-intimacies-routine-and-play/), online.
 
 <details>
-<summary>more...</summary>
+<summary><b>more...</b></summary>
 
 <br>
 
@@ -91,6 +92,7 @@ _March 2019_: ‘Gender stereotyping in machine learning: a technical necessity 
 _March 2019_: ‘Gender stereotyping in international human rights law,’ Human Rights Triangle Conference, London UK
 
 </details>
+<br>
 
 ## Panels and invited talks
 
@@ -101,14 +103,16 @@ _June 2022_: 'Sex, gender, binaries and categories: frictions in data about huma
 _May 2022_: ‘Surveillance and Subjecthood: Gender, Race, and Class in the Constitution of Data Subjects,’ panellist, with Jens T. Theilen (Helmut-Schmidt-University, Hamburg, Germany) and Aisha P.L. Kadiri (École normale supérieure, Paris, France); chaired by Felix Bieker (Office of the Data Protection Commissioner (ULD) Schleswig-Holstein, Kiel, Germany); Surveillance & Society Conference 2022, Rotterdam/online 
 
 <details>
-<summary>more...</summary>
+<summary><b>more...</b></summary>
 
 <br>
+
 _April 2022_: ‘Practical ethics in research software development,’ chair and convenor, with Garnett Achieng (Data & Digital Rights Researcher, Pollicy), Arielle Bennett (Research Project Manager, Tools, Practices, & Systems, The Alan Turing Institute), Stef Garasto (Ethics Committee Member, DataKind UK), and Andrew Strait (Associate Director of Research Partnerships, Ada Lovelace Institute); Collaborations Workshop 2022, online (available on [YouTube](https://www.youtube.com/watch?v=AfotGso8rDI))
 
 _June 2021_: 'Technologies for gender diversity: the impact of gender diverse leadership on the design of human rights technologies,’ panellist, with Enrique Piraces (Carnegie Mellon University), Kat Lo (Meedan), Yvonne McDermott Rees (Swansea University), Eriol Fox (Newcastle University); chaired by Hae Ju Kang (Korea Future); RightsCon 2021, online
 
 </details>
+<br>
 
 ## Open science 
 
@@ -128,7 +132,7 @@ I was on the Steering Committee for the Software Sustainability Institute’s [C
 In 2020 and 2021, I was on the [DataKind UK](https://www.datakind.org/chapters/datakind-uk) Ethics Committee: we ran ethics trainings for DataKind volunteers, supported DataCorps projects, and organised data ethics panel discussions and [book clubs](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) in London and online.
 
 <details>
-<summary>more...</summary>
+<summary><b>more...</b></summary>
 
 <br>
 
@@ -138,6 +142,7 @@ I was on the Steering Committee for the European Commission's [Transgender peopl
 The findings from the study, which covered the discrimination and harassment faced by trans people in the EU, and the impact of different legal gender recognition procedures on the lives of trans people, were published in the report [Legal gender recognition in the EU: the journeys of trans people towards full equality](https://ec.europa.eu/info/policies/justice-and-fundamental-rights/combatting-discrimination/lesbian-gay-bi-trans-and-intersex-equality/studies-and-research-lgbti-equality_en) in June 2020.
 
 </details>
+<br>
 
 ## Other projects
 
