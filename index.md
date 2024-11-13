@@ -18,6 +18,8 @@ I'm also doing a bit of consulting: please do get in touch if you're in need of 
 
 ## Work 
 
+As a freelance researcher and evaluator, I've contracted for organisations including the World Bank, Edge Effect, Frontline AIDS, and DataAnnotation. 
+
 From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I led on [Critical Analytics?](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/) a research project investigating the experience of local authority staff using a data analytics system in a London borough, which was published in June 2024.
 
 I carried out my PhD research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/) from 2018 to 2023. 
