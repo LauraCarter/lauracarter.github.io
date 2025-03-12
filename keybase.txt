@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/laurafdcarter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lauracarter.net
+  * I am laurafdcarter (https://keybase.io/laurafdcarter) on keybase.
+  * I have a public key with fingerprint 0F16 EB29 2570 D88C 751D  4CF4 2A40 9640 80FA 774C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010f64c8e7c036c01cf89a58f6ee241ef568920c5dbd81de129367efd7ff83cca40a",
+      "fingerprint": "0f16eb292570d88c751d4cf42a40964080fa774c",
+      "host": "keybase.io",
+      "key_id": "2a40964080fa774c",
+      "kid": "01010f64c8e7c036c01cf89a58f6ee241ef568920c5dbd81de129367efd7ff83cca40a",
+      "uid": "4ebe9fbda3a2a88714ee64ef9d52dc19",
+      "username": "laurafdcarter"
+    },
+    "service": {
+      "hostname": "lauracarter.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1741798745,
+  "expire_in": 157680000,
+  "prev": "e947aa69bd6254b75fb7ba16df619daabfca04b2357393abbd90148675d2e9f7",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJdSBVBFMevWZmGJYQmBBVDEdHF9mN2Z/dWCIkRPVQQaWaX6+zOzHXV
+dm9791qWQlgSBUFQQhZpEJJBgVARBPZhVmioWKZJUVYPSoJpH1IQ1awV9NBjMw/D
+zPn9/3PO4XSkJwfSkg41N1e2nUosTnp0tykRiPa1FR0AhkOqQOgAKKfTB60gNO5F
+yi0CQkAQ+WYqNDWKTEFWTUE0maZjRWMqpRIUKVNUTZcEUyEG0URCRUmXVUQZQYxp
+smliKGAQBMyyo9SNuZbt+bZMVKkh6ZKCBKJpJlJEAk0GJU7rKhQ0gWGEoMmFpU7c
+V/DkDBynOZbD3/glMp3eP/j/nHdi2g5Sg+rMIFjGEtY0JEJKVUiZThSJmKLug3Hq
+2ng35XQFTriYERO7HnVBTRDwUKVlUr+7fjl/Y7+gHJt63CPmOp5jOhU8WOp5sXjI
+F3tVMZ/eS43Ib5+IYdmE95MrKqkbtxwbhEROmp7lG4sIikjXEFSCgO6LWS6NWD6h
+IFUT+PL/oZXckuoQYazqBlElBRpIYQYysKgSpoo6wdhgJhagIckKknUZGwbRBRFq
+KlKIxNuBgF/ZHtsBIZmniaPcMm5FbewlXApq2u/smhlISgvMnjXDn7NAWmrGn+kr
+/pTyHe67NNA38Di6PqvkQ2snrXjTKK/oKeyHcnVxpHpo1ebhww/aDuZfLLjinM11
+i63wrfyNxfmfn55RR7cdve7OuPZjbuO6yYatGRP9JeFgV/KWlNq1RcPg3s740pPj
+eXOKwuGTnV+GXq45svp+b/TrrmdZs/Pf7xg88XVe+sjbjMiyAud408jtvPnRL642
+fPNY8PSsRdlJsd6HHbXjEzVzPmYuq6qTU93CG6ffn2Vl7swTPc1HWOfzJa8m2kH9
+/buXNxY0LMy1p2oe1XW/ADnnwjnZ2bRlw2C49fDyMrygb/LM/smWvNd1gxe6x+rL
+N81d1DX6ZHX0XebUytyGsevbB398u3r+J27xTEU=
+=4hKQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/laurafdcarter
+
+==================================================================
