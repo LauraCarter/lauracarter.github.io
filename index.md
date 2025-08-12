@@ -9,8 +9,8 @@ I'm experienced in developing and leading research projects to find out what is 
 I've worked in the spaces where human rights, intersectional discrimination, new technologies and social justice interact. 
 I write well-researched, rigorous and clear reports, for technical and non-technical audiences.
 
-I will be a UC Berkeley Tech Policy Fellow in the [2024-25 cohort](https://citrispolicylab.org/2425tpf/). 
-As part of the Improving Diversity in AI working group, I'll be researching how family relationships are represented in data and AI systems used in the public sector, and how these representations might reinforce stereotypes about 'normal' families. 
+I'm a UC Berkeley Tech Policy Fellow in the [2024-25 cohort](https://citrispolicylab.org/2425tpf/). 
+As part of the Improving Diversity in AI working group, I'm researching how family relationships are represented in data and AI systems used in the public sector, and how these representations might reinforce stereotypes about 'normal' families. 
 
 I recently relocated to the traditional land of the Duwamish people in Seattle, where I am writing a book proposal developing my PhD thesis research on data about people, and [writing about other things](https://blog.lauracarter.net/) as well. 
 
@@ -18,11 +18,11 @@ I'm also doing a bit of consulting: please do get in touch if you're in need of 
 
 ## Work 
 
-As a freelance researcher and evaluator, I've contracted for organisations including the World Bank, Edge Effect, Frontline AIDS, and DataAnnotation. 
+As a freelance researcher and evaluator, I've contracted for organisations including the Ada Lovelace Institute, the World Bank, Edge Effect, Frontline AIDS, and DataAnnotation. 
 
 From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I led on [Critical Analytics?](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/) a research project investigating the experience of local authority staff using a data analytics system in a London borough, which was published in June 2024.
 
-I carried out my PhD research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/) from 2018 to 2023. 
+I carried out my PhD research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/) from 2018 to 2023, where I used feminist and queer methods to examine public sector use of data about individuals and families. 
 My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood). During my PhD, I spent January-September 2020 as an Enrichment Student at the [Alan Turing Institute](https://www.turing.ac.uk/).
 
 From 2011 to 2019, I worked at the International Secretariat of [Amnesty International](https://www.amnesty.org/en/), of which six years was spent in research and policy advice roles covering the rights of LGBTI people and of human rights defenders.
