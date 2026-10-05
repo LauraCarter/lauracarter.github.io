@@ -9,12 +9,8 @@ I'm experienced in developing and leading research projects to find out what is 
 I've worked in the spaces where human rights, intersectional discrimination, new technologies and social justice interact. 
 I write well-researched, rigorous and clear reports, for technical and non-technical audiences.
 
-I'm a UC Berkeley Tech Policy Fellow in the [2024-25 cohort](https://citrispolicylab.org/2425tpf/). 
-As part of the Improving Diversity in AI working group, I'm researching how family relationships are represented in data and AI systems used in the public sector, and how these representations might reinforce stereotypes about 'normal' families. 
-
-I recently relocated to the traditional land of the Duwamish people in Seattle, where I am writing a book proposal developing my PhD thesis research on data about people, and [writing about other things](https://blog.lauracarter.net/) as well. 
-
-I'm also doing a bit of consulting: please do get in touch if you're in need of short-term research support!
+I'm currently an Affiliate Fellow with the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) and a Programme Manager at [OLS](https://we-are-ols.org). 
+I'm also a Board member at [HURIDOCS](https://huridocs.org/).
 
 ## Work 
 
@@ -31,7 +27,9 @@ I have also worked as a caseworker for domestic violence and hate crime cases, a
 
 I have an MA in Gender Studies from SOAS and a BA in Mathematics from the University of Cambridge.
 
-## Publications
+## Academic Publications
+
+**Carter L and Sobey A**, [‘Healthier, Thinner or More Profitable? Technosolutionism, Fat Bodies and Fat Futures’](https://doi.org/10.14236/ewic/BCSHCI2025.27) Proceedings of the 38th International BCS Human-Computer Interaction Conference (BCS Learning & Development Ltd 2025)  
 
 Sobey A and **Carter L**, ‘[The Harmful Fetishisation of Reductive Personal Tracking Metrics in Digital Systems](https://dl.acm.org/doi/10.1145/3630106.3658943),' The 2024 ACM Conference on Fairness, Accountability, and Transparency (Association for Computing Machinery 2024) 
 
@@ -69,16 +67,18 @@ _April 2019_: [Google's pay audit and the meaning of 'equality'](https://hrcesse
 
 ## Conference presentations
 
+_Sept 2025_: 'Healther, thinner, or more  profitable? Technosolutionism, fat bodies and fat futures,' 4S2025, Seattle.
+
 _July 2024_: ’To observe suspicious facts in child-life:’ the historical roots of AI enthusiasm in child protection services in the UK, [Rethinking the Inevitability of AI: The Environmental and Social Impacts of Computing in Historical Context](https://uva.theopenscholar.com/rethinking-the-inevitability-of-ai/), online
 
 _June 2024_: 'The Harmful Fetishisation of Reductive Personal Tracking Metrics in Digital Systems,' FAccT 2024, Rio de Janeiro, Brazil ([slides](https://zenodo.org/records/11402235))
-
-_June 2023_: 'Categorising the ‘Troubled Family’: Data Sharing, Binary Classifications and Family Role Stereotyping in Children’s Social Care in England', [The Datafied Family: Algorithmic Encounters in Care, Intimacies, Routine and Play](https://www.ias.surrey.ac.uk/event/the-datafied-family-algorithmic-encounters-in-care-intimacies-routine-and-play/), online.
 
 <details>
 <summary><b>more...</b></summary>
 
 <br>
+
+_June 2023_: 'Categorising the ‘Troubled Family’: Data Sharing, Binary Classifications and Family Role Stereotyping in Children’s Social Care in England', [The Datafied Family: Algorithmic Encounters in Care, Intimacies, Routine and Play](https://www.ias.surrey.ac.uk/event/the-datafied-family-algorithmic-encounters-in-care-intimacies-routine-and-play/), online.
 
 _June 2021_: 'The Turing Way Guide to Ethical Research' with Malvika Sharan (Turing Way Community Manager), RightsCon2021, online (also available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe&t=1s))
 
