@@ -62,7 +62,7 @@ Parker I and **Carter L**, [‘Licence to Build: Public Attitudes to Public Sect
 
 **Carter L**, Kishiue A and Dominguez Gonzalez K, [‘Gender in Urban Transport in Nairobi, Kenya Volume II: Employment’](https://openknowledge.worldbank.org/handle/10986/34610) (World Bank 2020)
 
-Amnesty International, [‘Iceland: No Shame in Diversity’](https://www.amnesty.org/en/documents/eur28/9498/2019/en/) (2019)  
+Amnesty International, [‘Iceland: No Shame in Diversity’](https://www.amnesty.org/en/documents/eur28/9498/2019/en/) (2019)  [Amnesty International does not publicly name report authors.]
 
 Amnesty International, [‘First, Do No Harm: Ensuring the Rights of Children with Variations of Sex Characteristics in Denmark and Germany’](https://www.amnesty.org/en/documents/document/?indexNumber=eur01%2f6086%2f2017&language=en) (2017) 
 
@@ -189,8 +189,6 @@ The findings from the study, which covered the discrimination and harassment fac
 
 </details>
 <br>
-
-I contributed to the Design Justice Network's zine #5, [How to make a local Design Justice node](https://designjustice.org/zines).
 
 
 ## Contact me
