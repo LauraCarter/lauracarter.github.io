@@ -14,11 +14,11 @@ I'm also a Board member at [HURIDOCS](https://huridocs.org/).
 
 ## Work 
 
-As a freelance researcher, facilitator, and evaluator, I've contracted for organisations including the Ada Lovelace Institute, the World Bank, Edge Effect, Frontline AIDS, BlueDot Impact, and Intelligence Rising.
+As a freelance researcher, facilitator, and evaluator, I've contracted for organisations including the [World Bank](https://www.worldbank.org), [Edge Effect](https://www.edgeeffect.org/), [Frontline AIDS](https://frontlineaids.org/), [Digital Research Academy](https://digital-research.academy/), [BlueDot Impact](https://bluedot.org/), and [Intelligence Rising](https://www.intelligencerising.org/).
 
 I was a 2024-25 UC Berkeley Tech Policy Fellow, where I researched challenges in representing the family in data. 
 
-From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I led on [Critical Analytics?](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/) a research project investigating the experience of local authority staff using a data analytics system in a London borough, which was published in June 2024.
+From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithms, where I led on [Critical Analytics?](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/) a research project investigating the experience of local authority staff using a data analytics system in a London borough, which was published in June 2024.
 
 I carried out my PhD research in the Human Rights, Big Data and Technology Project at the [University of Essex](https://www.essex.ac.uk/) from 2018 to 2023, where I used feminist and queer methods to examine public sector use of data about individuals and families. 
 My supervisors were [Professor Lorna McGregor](https://www.essex.ac.uk/people/mcgre64903/lorna-mcgregor) and [Professor Roisin Ryan-Flood](https://www.essex.ac.uk/people/ryanf84501/roisin-ryan-flood). During my PhD, I spent January-September 2020 as an Enrichment Student at the [Alan Turing Institute](https://www.turing.ac.uk/).
@@ -191,10 +191,10 @@ The findings from the study, which covered the discrimination and harassment fac
 <br>
 
 
-## Contact me
-
-[Email](mailto:hello@lauracarter.net)
+## Find me online
 
 <a rel="me" href="https://scholar.social/@LauraC_rter">Mastodon</a>
 
 [ORCID](https://orcid.org/0000-0002-4285-1140)
+
+[LinkedIn](https://www.linkedin.com/in/laura-carter-phd/)
