@@ -14,7 +14,9 @@ I'm also a Board member at [HURIDOCS](https://huridocs.org/).
 
 ## Work 
 
-As a freelance researcher and evaluator, I've contracted for organisations including the Ada Lovelace Institute, the World Bank, Edge Effect, Frontline AIDS, and DataAnnotation. 
+As a freelance researcher, facilitator, and evaluator, I've contracted for organisations including the Ada Lovelace Institute, the World Bank, Edge Effect, Frontline AIDS, BlueDot Impact, and Intelligence Rising.
+
+I was a 2024-25 UC Berkeley Tech Policy Fellow, where I researched challenges in representing the family in data. 
 
 From August 2022 to January 2024, I worked at the [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) as Senior Researcher, Public Sector Algorithm, where I led on [Critical Analytics?](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/) a research project investigating the experience of local authority staff using a data analytics system in a London borough, which was published in June 2024.
 
@@ -47,10 +49,33 @@ Sobey A and **Carter L**, ‘[The Harmful Fetishisation of Reductive Personal Tr
 
 Parker I and **Carter L**, [‘Licence to Build: Public Attitudes to Public Sector AI’](https://www.adalovelaceinstitute.org/policy-briefing/licence-to-build/) (Ada Lovelace Institute 2025) 
 
+<details>
+<summary> <b>more...</b> </summary>
+
+<br>
+
 **Carter L**, [‘Problematizing the “Family” in Welfare and Social Services Data Systems’](https://zenodo.org/records/17596671) (Berkeley Tech Policy Fellowship 2025) 
 
+**Carter L**, [‘Critical Analytics? Learning from the Early Adoption of Data Analytics for Local Authority Service Delivery’](https://www.adalovelaceinstitute.org/report/local-authority-data-analytics/) (Ada Lovelace Institute 2024)
 
+**Carter L**, [‘A Culture of Ethical AI: What Steps Can Organizers of AI Conferences Take to Encourage Reflection on the Societal Impacts of AI Research?’](https://www.adalovelaceinstitute.org/wp-content/uploads/2022/08/A-culture-of-ethical-AI-Ada-Lovelace-Institute-CIFAR-Partnership-on-AI.pdf) (Ada Lovelace Institute, CIFAR, Partnership on AI 2022) 
 
+**Carter L**, Kishiue A and Dominguez Gonzalez K, [‘Gender in Urban Transport in Nairobi, Kenya Volume II: Employment’](https://openknowledge.worldbank.org/handle/10986/34610) (World Bank 2020)
+
+Amnesty International, [‘Iceland: No Shame in Diversity’](https://www.amnesty.org/en/documents/eur28/9498/2019/en/) (2019)  
+
+Amnesty International, [‘First, Do No Harm: Ensuring the Rights of Children with Variations of Sex Characteristics in Denmark and Germany’](https://www.amnesty.org/en/documents/document/?indexNumber=eur01%2f6086%2f2017&language=en) (2017) 
+
+Amnesty International, [‘Rule by Law: Discriminatory Legislation and Legitimized Abuses in Uganda’](https://www.amnesty.org/en/documents/afr59/006/2014/en/) (2014)
+
+Amnesty International. [‘The State Decides Who I Am: Lack of Legal Gender Recognition for Transgender People in Europe’](https://www.amnesty.org/en/documents/document/?indexNumber=EUR01%2f001%2f2014&language=en) (2014) 
+
+Amnesty International, [‘Speaking out: Advocacy Experiences and Tools of LGBTI Activists in Sub-Saharan Africa’](https://www.amnesty.org/en/documents/afr01/001/2014/en/) (2014)  
+
+Amnesty International, [‘Making Love a Crime: Criminalization of Same-Sex Conduct in Sub-Saharan Africa’](https://www.amnesty.org/en/documents/afr01/001/2013/en/) (Amnesty International 2013)  
+
+</details>
+<br>
 
 ## Writing and Editing
 
