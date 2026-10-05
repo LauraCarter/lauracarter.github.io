@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About me
 
 Where something is going wrong for people, I want to find out why and how we can fix it.
 I'm experienced in developing and leading research projects to find out what is going wrong for whom, why, and how to make changes that have an impact on people's lives. 
@@ -29,7 +29,7 @@ I have also worked as a caseworker for domestic violence and hate crime cases, a
 
 I have an MA in Gender Studies from SOAS and a BA in Mathematics from the University of Cambridge.
 
-## Academic Publications
+## Academic publications
 
 **Carter L** and Sobey A, [‘Healthier, Thinner or More Profitable? Technosolutionism, Fat Bodies and Fat Futures’](https://doi.org/10.14236/ewic/BCSHCI2025.27) Proceedings of the 38th International BCS Human-Computer Interaction Conference (BCS Learning & Development Ltd 2025)  
 
@@ -41,7 +41,7 @@ Sobey A and **Carter L**, ‘[The Harmful Fetishisation of Reductive Personal Tr
 
 **Carter L**, ‘[Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/)’ in Carla Ferstman and Andrew Fagan (eds), _Covid-19, Law and Human Rights : Essex Dialogues. A Project of the School of Law and Human Rights Centre_ (University of Essex 2020)
 
-## Reports and Expert Submissions
+## Reports and expert submissions
 
 **Carter L** and Kroot K, [‘Submission to the Committee on the Elimination of Discrimination against Women Draft (CEDAW) General Recommendation No. 41: Dismantling Gender Stereotypes and the Unequal Power Relations That Sustain Them’](https://doi.org/10.5281/zenodo.20129821) (WAIE+ 2026) 
 
@@ -77,7 +77,7 @@ Amnesty International, [‘Making Love a Crime: Criminalization of Same-Sex Cond
 </details>
 <br>
 
-## Writing and Editing
+## Writing and editing
 
 _September 2025_: [‘Fat STS: A Zine (Screen Version)’](https://zenodo.org/records/17033576), which I edited for 4S2025. 
 
