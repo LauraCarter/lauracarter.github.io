@@ -29,7 +29,7 @@ I have an MA in Gender Studies from SOAS and a BA in Mathematics from the Univer
 
 ## Academic Publications
 
-**Carter L and Sobey A**, [‘Healthier, Thinner or More Profitable? Technosolutionism, Fat Bodies and Fat Futures’](https://doi.org/10.14236/ewic/BCSHCI2025.27) Proceedings of the 38th International BCS Human-Computer Interaction Conference (BCS Learning & Development Ltd 2025)  
+**Carter L** and Sobey A, [‘Healthier, Thinner or More Profitable? Technosolutionism, Fat Bodies and Fat Futures’](https://doi.org/10.14236/ewic/BCSHCI2025.27) Proceedings of the 38th International BCS Human-Computer Interaction Conference (BCS Learning & Development Ltd 2025)  
 
 Sobey A and **Carter L**, ‘[The Harmful Fetishisation of Reductive Personal Tracking Metrics in Digital Systems](https://dl.acm.org/doi/10.1145/3630106.3658943),' The 2024 ACM Conference on Fairness, Accountability, and Transparency (Association for Computing Machinery 2024) 
 
@@ -39,7 +39,22 @@ Sobey A and **Carter L**, ‘[The Harmful Fetishisation of Reductive Personal Tr
 
 **Carter L**, ‘[Imperfect Models of the World: Gender Stereotypes and Assumptions in Covid-19 Responses](http://repository.essex.ac.uk/28041/)’ in Carla Ferstman and Andrew Fagan (eds), _Covid-19, Law and Human Rights : Essex Dialogues. A Project of the School of Law and Human Rights Centre_ (University of Essex 2020)
 
-## Writing
+## Reports and Expert Submissions
+
+**Carter L** and Kroot K, [‘Submission to the Committee on the Elimination of Discrimination against Women Draft (CEDAW) General Recommendation No. 41: Dismantling Gender Stereotypes and the Unequal Power Relations That Sustain Them’](https://doi.org/10.5281/zenodo.20129821) (WAIE+ 2026) 
+
+**Carter L**, [‘Situated Knowledge and the Use of Generative AI in Research Software Engineering’](https://doi.org/10.5281/zenodo.19054204) (Open Life Science, 16 March 2026) 
+
+Parker I and **Carter L**, [‘Licence to Build: Public Attitudes to Public Sector AI’](https://www.adalovelaceinstitute.org/policy-briefing/licence-to-build/) (Ada Lovelace Institute 2025) 
+
+**Carter L**, [‘Problematizing the “Family” in Welfare and Social Services Data Systems’](https://zenodo.org/records/17596671) (Berkeley Tech Policy Fellowship 2025) 
+
+
+
+
+## Writing and Editing
+
+_September 2025_: [‘Fat STS: A Zine (Screen Version)’](https://zenodo.org/records/17033576), which I edited for 4S2025. 
 
 _August 2022_: [The Human Rights Case for Open Science](https://openheroines.org/the-human-rights-case-for-open-science-ff58578b09ee): a blog post commissioned by [Open Heroines](https://openheroines.medium.com/) as part of their writing grants series aiming to elevate the voices of women and non-binary people in open spaces. 
 This pieces was republished in the [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/17/the-human-rights-case-for-open-science/). 
@@ -47,14 +62,16 @@ This pieces was republished in the [LSE Impact Blog](https://blogs.lse.ac.uk/imp
 _February 2022_: [Prescripted Living: Gender Stereotypes and Data-Based Surveillance in the UK Welfare State](https://essexlawresearch.blog/2022/02/08/prescripted-living-gender-stereotypes-and-data-based-surveillance-in-the-uk-welfare-state/): a post for the Essex Law Research Blog summarising my [Internet Policy Review paper](https://policyreview.info/articles/analysis/prescripted-living-gender-stereotypes-and-data-based-surveillance-uk-welfare-state). 
 It was the [most-viewed blog post](https://essexlawresearch.blog/2022/07/07/our-2022-essex-law-research-blog-prizes/) by a doctoral student in the 2021-22 academic year. 
 
-_November 2021_: [“There is always an element of judgement”](https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c): a blog post on an event on web scraping organised by [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
-
 <details>
 <summary> <b>more...</b> </summary>
 
 <br>
 
+_November 2021_: [“There is always an element of judgement”](https://medium.com/datakinduk/there-is-always-an-element-of-judgement-46e8dc3838c): a blog post on an event on web scraping organised by [DataKind UK](https://www.datakind.org/chapters/datakind-uk).
+
 <i>May 2021</i>: [“In the end, it is all about power”](https://medium.com/datakinduk/in-the-end-it-is-all-about-power-datakind-uks-coded-bias-watch-party-ea5ae5b9afe): a blog post reporting on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Watch Party event on the film ['Coded Bias.'](https://www.codedbias.com/)
+
+_July 2020_: [How to make a local Design Justice node](https://designjustice.org/zines)
 
 _May 2020_: [Take a seat: the AI will be with you shortly](https://medium.com/datakinduk/take-a-seat-the-ai-will-be-with-you-shortly-20b29699ee46): a blog post on [DataKind UK](https://www.datakind.org/chapters/datakind-uk)'s Ethics Book Club on AI and medicine.
 
@@ -127,16 +144,18 @@ Guidance on how to join the community of contributors is in the [project reposit
 
 ## Board and advisory work
 
-Since 2017, I have been a trustee of the [Feminist Review Trust](https://www.feminist-review-trust.com/), which allocated around GBP 25,000 to feminist projects worldwide annually. The Trust is now in a winding-down phase and will close in 2024. 
+I am currently a Board member of [HURIDOCS](https://huridocs.org/).
+
+From 2017-2024, I was a trustee of the [Feminist Review Trust](https://www.feminist-review-trust.com/), which allocated around GBP 25,000 to feminist projects worldwide annually. The Trust was spent down and closed in 2024. 
 
 I was on the Steering Committee for the Software Sustainability Institute’s [Collaborations Workshop 2022](https://software.ac.uk/cw22), for which the themes were Code Review, Ethics, Hybrid Working and of course Software Sustainability. 
-
-In 2020 and 2021, I was on the [DataKind UK](https://www.datakind.org/chapters/datakind-uk) Ethics Committee: we ran ethics trainings for DataKind volunteers, supported DataCorps projects, and organised data ethics panel discussions and [book clubs](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) in London and online.
 
 <details>
 <summary><b>more...</b></summary>
 
 <br>
+
+In 2020 and 2021, I was on the [DataKind UK](https://www.datakind.org/chapters/datakind-uk) Ethics Committee: we ran ethics trainings for DataKind volunteers, supported DataCorps projects, and organised data ethics panel discussions and [book clubs](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) in London and online.
 
 I volunteered as a screener for the [EuroCentralAsian Lesbian* Community](https://europeanlesbianconference.org/)'s COVID-19 grants programme in September-October 2020, where we allocated EUR 28,000 to lesbian*-led groups in crisis across the region.
 
@@ -146,17 +165,8 @@ The findings from the study, which covered the discrimination and harassment fac
 </details>
 <br>
 
-## Other projects
-
-I have a [blog](https://seattleblog.lauracarter.net/) about living in Seattle.
-
-I wrote a satirical twitter bot that gives [individual self-care advice](https://twitter.com/lifeadvicebot) for coping with structural problems.
-
 I contributed to the Design Justice Network's zine #5, [How to make a local Design Justice node](https://designjustice.org/zines).
 
-I ran [Data/Feminism](https://tinyletter.com/data-feminism), a weekly(ish) newsletter that looked at algorithms, data and technology from a feminist perspective. The [archives](https://tinyletter.com/data-feminism/archive) are online.
-
-My tiny plot in a North London community garden had an [Instagram](https://www.instagram.com/lauragardenn7/).
 
 ## Contact me
 
